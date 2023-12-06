@@ -2,8 +2,23 @@
 
 **Date** -  - Day 1 Part 2 Complete - Total Time: 10 hours  
 > *Reflections* - This was a real pain.
-> > *Difficulties***
-> > >
+> > *Difficulties*
+
+**12/6/2023** -  - Day 2 Part 2 Complete - Total Time: 2 hours  
+> *Reflections* - May be the cleanest planning and execution yet!
+> > *Successes*
+> > >Instead of constantly calling back three different arrays, I used a dict. to only call back a specific array as needed!
+> > >Successfully used split() which made life  so much easier.
+> > >Continued practicing append() and learned clear() and min/max().
+> > >GOT IT ON FIRST TRY!
+> > >**I continue to misread the prompt though, need to be slower with instructions**
+
+**12/5/2023** -  - Day 2 Part 1 Complete - Total Time: 6 hours  
+> *Reflections* - I think I did well on the plan, ran into a few hiccups with the structure
+> > *Difficulties*
+> > >Have since learn split(), would have helped in getting numbers and ID
+> > >Ran into big problems with "break"; was messing with identifying 3 digit values
+> > >Learned some range(len()) situations
 
 **12/5/2023** -  - Day 1 Part 2 Complete - Total Time: 10 hours - pt2.py 
 > *Reflections* - This was a real pain.
