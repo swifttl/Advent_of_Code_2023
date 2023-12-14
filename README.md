@@ -3,6 +3,36 @@
 **Date** -  - Day 1 Part 2 Complete - Total Time: 10 hours  
 > *Reflections* - This was a real pain.
 > > *Difficulties*
+> > 
+**12/13/2023** -  - Day 6
+> *Reflections* - Took a break from Day 5 and it went smooth
+> > *Successes*
+> > >Either this day was incredibly easy or I am actually learning something! (a little of both)
+> > >I think background on math and physics beneficial
+
+**12/12/2023** -  - Day 5
+> *Reflections* - This is going to be a Day 3 all over
+> > *Difficulties*
+> > >I will come back to this after studying maps more.
+> > >I was able to get it working with a very unoptimized, logically simple code for the test input. However, the code required creating/comparing lists with 10s of millions of data points, and my compute could not take it.
+> > >Reviewed a couple cheat sheets which make me want to go a different, simpler route.
+
+
+**12/11/2023** -  - Day 4
+> *Reflections* - Took a break from Day 3 and dont regret it
+> > *Successes*
+> > >Pretty straight forward
+> > >Was able to get part 1 and part 2 without any aid!
+> > >Part 1 can definitely be cleaned up. I think part 2 is tidy but things can always be made simpler
+
+**12/7/2023 - 12/Forever/23** -  - Day 3 Part 1 
+> *Reflections* - NEED TO RETURN TO
+> > *Difficulties*
+> > >Thought I created a good system for getting previous, current, and next lines. Think that was a keeper
+> > >Need a better solution for contextualized the number(I had been looking digit by but that runs into the issue of knowing when a digit is apart of a larger digit and storing the value of the larger digit)
+> > > > (perhaps first I should identify all digits that belong to one number, then store the indexes of the digits in a list, then for the symbol search, look based off symbol index range of [min(digit list)-1:max(digit list)+1]
+> > > > > Within that loop, the digits can be stored in a terminating list... then if that digit has symbol, that terminating list can append the wanted value list
+
 
 **12/6/2023** -  - Day 2 Part 2 Complete - Total Time: 2 hours  
 > *Reflections* - May be the cleanest planning and execution yet!
