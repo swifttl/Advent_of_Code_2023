@@ -4,6 +4,15 @@
 > *Reflections* - This was a real pain.
 > > *Difficulties*
 
+**12/15/2023** -  - Day 6 Part 1 Complete - Total Time: 2.5 hours  
+> *Reflections* - Once again I wasted hours because I hurried through the prompt.
+> > *Difficulties*
+> > > READ THE DAMN PROMPT CORRECTLY
+> > > Practiced setting up and calling functions
+> > > Feel like code is readable and concise-ish
+> > > Need to study how to properly format lines in a efficient way
+> > > All in all difficulty 3/10
+
 **12/14/2023** -  - Day 7 - Total Time: 4.5 hours  
 > *Reflections* - The concept came early and I stuck to the plan. Wasn't the most optimized plan, but it worked!
 > > *Difficulties*
