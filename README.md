@@ -3,7 +3,16 @@
 **Date** -  - Day 1 Part 2 Complete - Total Time: 10 hours  
 > *Reflections* - This was a real pain.
 > > *Difficulties*
-> > 
+
+**12/14/2023** -  - Day 7 - Total Time: 4.5 hours  
+> *Reflections* - The concept came early and I stuck to the plan. Wasn't the most optimized plan, but it worked!
+> > *Difficulties*
+> > Learned some skills with creating and calling functions
+> > Learned some tricks with sort and lambda and keys
+> > Pt 2 definitely could have been optimized more; I was kind of on a roll spelling each step out and just continued with that process.
+> > Had a few hiccups as I overlooked a couple conditions.
+> > Getting a little faster at debugging.
+
 **12/13/2023** -  - Day 6
 > *Reflections* - Took a break from Day 5 and it went smooth
 > > *Successes*
