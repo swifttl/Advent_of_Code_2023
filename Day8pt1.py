@@ -10,39 +10,39 @@ directions = input[0]
 leftRightArray = []
 
 def locator(string):
-    a = 0
+    steps = 0
     finish = "placeholder"
     while finish != 'ZZZ':
         for instruction in string:
-            if a==0:
+            if steps == 0:
                 if instruction == "R":
                     for i in leftRightArray:
                         if i[0] == "AAA":
                             storeI = leftRightArray.index(i)
                             # print(leftRightArray.index(i))
                     finish = leftRightArray[storeI][2]
-                    a += 1
+                    steps += 1
                 elif instruction == "L":
                     for i in leftRightArray:
                         if i[0] == "AAA":
                             storeI = leftRightArray.index(i)
                     finish = leftRightArray[storeI][1]
-                    a += 1
+                    steps += 1
             else:
                 if instruction == "R":
                     for i in leftRightArray:
                         if i[0] == finish:
                             storeI = leftRightArray.index(i)
                     finish = leftRightArray[storeI][2]
-                    a += 1
+                    steps += 1
                 else:
                     if instruction =='L':
                         for i in leftRightArray:
                             if i[0] == finish:
                                 storeI = leftRightArray.index(i)
                         finish = leftRightArray[storeI][1]
-                        a += 1
-    print("The total number of steps is", a)
+                        steps += 1
+    print("The total number of steps is", steps)
 
 def partOne():
     for line in input[2:]:
