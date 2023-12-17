@@ -3,8 +3,15 @@
 **Date** -  - Day 1 Part 2 Complete - Total Time: 10 hours  
 > *Reflections* - This was a real pain.
 > > *Difficulties*
+> > >
 
-**12/15/2023** -  - Day 6 Part 1 Complete - Total Time: 2.5 hours  
+**12/16/2023** -  - Day 9 - Total time 1.5 hours  
+> *Reflections* - This came along pretty great! Part 2 felt easy as well
+> > *Difficulties*
+> > > Took some time to try and consolidate. Tried to avoid either redundant or unnecessary variables.
+> > > Took a little while to find my "while" ender. Originally thought I would count "0s" but realized that was unnecessary
+
+**12/15/2023** -  - Day 8 - Total Time: 5 hours  
 > *Reflections* - Once again I wasted hours because I hurried through the prompt.
 > > *Difficulties*
 > > > READ THE DAMN PROMPT CORRECTLY
