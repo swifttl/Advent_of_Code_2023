@@ -5,6 +5,12 @@
 > > *Difficulties*
 > > >
 
+**12/18/2023** -  - Day 10 Part 1 - Total time 2 hours  
+> *Reflections* - Felt tedious but overall, very happy with the turn out
+> > *Difficulties*
+> > > I had gotten the code correct early on, however, my counter for the final answer was not nested correctly.
+> > > Don't really have an idea of how to tackle Part 2.
+
 **12/16/2023** -  - Day 9 - Total time 1.5 hours  
 > *Reflections* - This came along pretty great! Part 2 felt easy as well
 > > *Difficulties*
