@@ -1,9 +1,15 @@
 # Advent_of_Code_2023
+**Currently taking a break from 2023 to go through all previous calendars to further work on skills. Will be back :)**
 
-**Date** -  - Day 1 Part 2 Complete - Total Time: 10 hours  
-> *Reflections* - This was a real pain.
+**12/25/2023** -  - Day 19 Part 1 and Day 21 Part 1  
+> *Reflections* - Quickly became busy with holidays and work but was able to get a couple more done!
+> > Day 19 became a task of learning; Spent a lot of time studying RegEx and was able to successfully implement it into working code.
+> > > Also did some practicing with assigning multiple variables when creating loops
+> > Day 21 felt similar to day 7? Gave it a try. I believe my conceptual tackling of the problem was fine; i.e. From each step taken, log all possible steps, run loop again from all new possible steps.
+> > > This clearly wasn't the most efficient way as far as processing (millions of possibilities being ran) but worked!
+> > > Was able to practice utilizing "set()" function
 > > *Difficulties*
-> > >
+> > >Could not figure out part 2 for either
 
 **12/18/2023** -  - Day 10 Part 1 - Total time 2 hours  
 > *Reflections* - Felt tedious but overall, very happy with the turn out
